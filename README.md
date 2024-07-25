@@ -3,7 +3,7 @@ I am an undergraduate at The Chinese University of Hong Kong (CUHK) majored in m
 
 ### Interests
 - 🎾 : I like playing tennis
-- 🎤: : 3ho🔥
+- 🎤 : 3ho🔥
 - 🎹 : Piano grade 7
 - 💻 : CS + X
 - ...
