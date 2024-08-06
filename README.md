@@ -14,6 +14,4 @@ I am working on computational LEGO design (CG, March 2024 - ) 😃
 ### Research
 coming soon 😅
 
-cheer! cheer! cheer!
-
 Thanks for your visiting! 😘
