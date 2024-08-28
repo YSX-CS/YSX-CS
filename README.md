@@ -9,7 +9,7 @@ I am an undergraduate at The Chinese University of Hong Kong (CUHK) majored in m
 - ...
 
 ### What I am doing now?
-I am working on computational LEGO design (CG, March 2024 - ) 😃
+I am working on computational LEGO design (CG + AI, March 2024 - ) 😃
 
 ### Research
 coming soon 😅
