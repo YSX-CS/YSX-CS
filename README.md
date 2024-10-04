@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am an undergraduate at The Chinese University of Hong Kong (CUHK) majored in mathematics & info engineering.
+I am an undergraduate at The Chinese University of Hong Kong (CUHK) majored in Mathematics & Info engineering.
 
 ### Interests
 - 🎾 : I like playing tennis
